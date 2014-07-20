@@ -1,1 +1,2 @@
-Phiên bản main version0.1
+﻿Phiên bản main version0.1
+Fix Bug
